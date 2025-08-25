@@ -1,0 +1,51 @@
+[ 24.08.2025 02:53:28.166 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 02:57:41.873 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 02:58:06.714 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:00:46.826 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:04:08.038 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:04:19.038 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:05:10.585 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:06:08.014 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:07:08.418 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:07:22.798 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:07:46.614 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:09:20.094 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:11:20.378 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:11:28.561 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:14:31.419 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:18:02.329 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:19:49.772 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:19:57.543 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:20:41.795 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:21:16.371 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:21:31.339 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:21:59.727 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:22:13.624 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:22:25.524 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:22:32.657 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:22:41.688 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:22:45.571 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:22:47.654 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:22:53.704 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:22:58.070 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:23:02.471 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:23:09.287 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:24:06.670 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 03:24:13.239 egl_init WARN ] The egl backend is still experimental, use with care.
+[ 24.08.2025 04:03:51.536 session_init FATAL ERROR ] Another composite manager is already running
+[ 24.08.2025 04:03:51.536 main FATAL ERROR ] Failed to create new session.
+[ 24.08.2025 04:03:53.234 session_init FATAL ERROR ] Another composite manager is already running
+[ 24.08.2025 04:03:53.234 main FATAL ERROR ] Failed to create new session.
+[ 24.08.2025 04:04:57.726 session_init FATAL ERROR ] Another composite manager is already running
+[ 24.08.2025 04:04:57.726 main FATAL ERROR ] Failed to create new session.
+[ 24.08.2025 04:04:59.659 session_init FATAL ERROR ] Another composite manager is already running
+[ 24.08.2025 04:04:59.659 main FATAL ERROR ] Failed to create new session.
+[ 24.08.2025 04:05:30.513 session_init FATAL ERROR ] Another composite manager is already running
+[ 24.08.2025 04:05:30.513 main FATAL ERROR ] Failed to create new session.
+[ 24.08.2025 04:05:34.394 session_init FATAL ERROR ] Another composite manager is already running
+[ 24.08.2025 04:05:34.394 main FATAL ERROR ] Failed to create new session.
+[ 25.08.2025 09:58:06.570 session_init FATAL ERROR ] Another composite manager is already running
+[ 25.08.2025 09:58:06.577 main FATAL ERROR ] Failed to create new session.
+[ 25.08.2025 10:24:34.468 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 25.08.2025 10:33:29.347 session_init FATAL ERROR ] Another composite manager is already running
+[ 25.08.2025 10:33:29.354 main FATAL ERROR ] Failed to create new session.
