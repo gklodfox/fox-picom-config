@@ -49,3 +49,17 @@
 [ 25.08.2025 10:24:34.468 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
 [ 25.08.2025 10:33:29.347 session_init FATAL ERROR ] Another composite manager is already running
 [ 25.08.2025 10:33:29.354 main FATAL ERROR ] Failed to create new session.
+[ 10.09.2025 20:52:54.232 c2_window_state_update_from_replies WARN ] Failed to get property 0 for window 0x00600032, some window rules might not work.
+[ 10.09.2025 20:52:54.234 c2_window_state_update_from_replies WARN ] Failed to get property 0 for window 0x0060003a, some window rules might not work.
+[ 10.09.2025 20:52:54.234 c2_window_state_update_from_replies WARN ] Failed to get property 0 for window 0x00600042, some window rules might not work.
+[ 10.09.2025 22:09:05.306 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 10.09.2025 22:10:10.214 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 10.09.2025 22:12:03.721 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 10.09.2025 22:14:12.566 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 10.09.2025 22:16:31.603 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 10.09.2025 22:19:18.190 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 10.09.2025 22:55:47.357 c2_window_state_update_from_replies WARN ] Failed to get property 0 for window 0x00600000, some window rules might not work.
+[ 11.09.2025 05:19:01.857 session_init FATAL ERROR ] Another composite manager is already running
+[ 11.09.2025 05:19:01.857 main FATAL ERROR ] Failed to create new session.
+[ 11.09.2025 05:40:00.271 session_init FATAL ERROR ] Another composite manager is already running
+[ 11.09.2025 05:40:00.271 main FATAL ERROR ] Failed to create new session.
