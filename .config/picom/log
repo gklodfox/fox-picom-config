@@ -63,3 +63,6 @@
 [ 11.09.2025 05:19:01.857 main FATAL ERROR ] Failed to create new session.
 [ 11.09.2025 05:40:00.271 session_init FATAL ERROR ] Another composite manager is already running
 [ 11.09.2025 05:40:00.271 main FATAL ERROR ] Failed to create new session.
+[ 11.09.2025 19:07:57.242 x_handle_error WARN ] Stray X error: X error 2 VALUE request 152 minor 34 serial 136
+[ 11.09.2025 19:07:57.242 glx_init ERROR ] Failed to get GLX context.
+[ 11.09.2025 19:15:28.709 c2_window_state_update_from_replies WARN ] Failed to get property 0 for window 0x0040008e, some window rules might not work.
