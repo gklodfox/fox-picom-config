@@ -66,3 +66,40 @@
 [ 11.09.2025 19:07:57.242 x_handle_error WARN ] Stray X error: X error 2 VALUE request 152 minor 34 serial 136
 [ 11.09.2025 19:07:57.242 glx_init ERROR ] Failed to get GLX context.
 [ 11.09.2025 19:15:28.709 c2_window_state_update_from_replies WARN ] Failed to get property 0 for window 0x0040008e, some window rules might not work.
+[ 11.09.2025 23:21:08.252 wm_find_leader WARN ] Window 0x00401185 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:17.020 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.351 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.429 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.460 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.532 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.542 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.602 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.617 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.686 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.700 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.783 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.790 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.866 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.902 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.966 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:28.985 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.066 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.078 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.150 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.158 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.220 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.251 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.317 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.332 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.416 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.427 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.499 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.507 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.583 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.606 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:29.628 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:31.373 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:31.436 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:31.461 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:31.550 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
+[ 11.09.2025 23:30:31.550 wm_find_leader WARN ] Window 0x00400291 is part of a cycle in the leadership tree
